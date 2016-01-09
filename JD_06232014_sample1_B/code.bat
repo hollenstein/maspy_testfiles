@@ -1,0 +1,2 @@
+D:/Programme/comet_2015011/comet.2015011.win64.exe -NJ:/lab/maspy_testfiles/JD_06232014_sample1_B/comet/uncalibrated/target_output -PJ:/lab/maspy_testfiles/JD_06232014_sample1_B/comet/uncalibrated/target.params J:/lab/maspy_testfiles/JD_06232014_sample1_B.mzML
+D:/Programme/comet_2015011/comet.2015011.win64.exe -NJ:/lab/maspy_testfiles/JD_06232014_sample1_B/comet/uncalibrated/decoy_output -PJ:/lab/maspy_testfiles/JD_06232014_sample1_B/comet/uncalibrated/decoy.params J:/lab/maspy_testfiles/JD_06232014_sample1_B.mzML

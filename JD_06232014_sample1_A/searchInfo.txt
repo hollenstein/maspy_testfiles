@@ -1,0 +1,6 @@
+variableMod	*	35	oxidationM
+variableMod	#	7	deamidNQ
+variableMod	@	28	pyroGluQ
+variableMod	^	27	pyroGluE
+variableMod	~	1	acetylProtN
+fixedMod	C	4	fixCarbamidoC
