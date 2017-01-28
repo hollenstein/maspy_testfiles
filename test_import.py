@@ -26,7 +26,7 @@ try:
     from itertools import izip as zip
 except ImportError:
     #python 3 series
-    pass
+    raw_input=input
 ################################################################################
 
 import sys
@@ -138,7 +138,7 @@ if __name__ == '__main__':
 
         print('\nAll tests successfull.')
         raw_input('Press enter to delete the temporary directory.')
-    
+
     if os.path.isdir(testfileInfo['tempdir']):
         print('Temporary directory not deleted: ', testfileInfo['tempdir'])
     raw_input('Press enter to quit.')
